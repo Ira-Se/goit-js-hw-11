@@ -22,3 +22,7 @@
   flex-direction: column;
   align-items: center;
 }
+
+.load-more-hidden {
+  display: none;
+}
